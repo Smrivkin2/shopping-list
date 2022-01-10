@@ -4,3 +4,5 @@
 - brussels sprouds
 - popcorn
 - cold brew
+- limes
+- almond slivers
